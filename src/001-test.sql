@@ -1,1 +1,1 @@
-lajdalfdlk
+SHOW VARIABLES LIKE "%version";
