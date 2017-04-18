@@ -1,0 +1,6 @@
+task zip(type:Zip){
+    from ('src/'){
+        include '*'
+    }
+    archiveName 'sql.zip'
+}
